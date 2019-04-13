@@ -1,5 +1,1 @@
-{>"layout" /}
-
-{<body}
-    this is index
-{/body}
+{>"layout" /} {<body} {#recipes} <div class="well"></body> <h4>{name}</h4><button></div> {/recipes} {/body}
